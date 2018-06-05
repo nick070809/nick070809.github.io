@@ -16,3 +16,11 @@
   margin-left: 32px;
   margin-top: 10px;
 }
+
+body{
+  background-color: #7a9280;
+}
+
+.navbar-default {
+  background-color: #739882;
+}
