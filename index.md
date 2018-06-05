@@ -1,6 +1,6 @@
 [1.xxx](/java/index.html)
 
-[2.xxx](/other/index.md)
+[2.xxx](/truth/index.md)
 
 3.xxx
 
