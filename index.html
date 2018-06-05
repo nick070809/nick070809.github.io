@@ -143,7 +143,33 @@ table tr th { border-bottom-width: 0px; }
 
 @include-when-export url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext);
 
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Open Sans Regular'),url('file:///Users/xianguang/Library/Application%20Support/abnerworks.Typora/themes/github/400.woff') format('woff')
+}
 
+@font-face {
+    font-family: 'Open Sans';
+    font-style: italic;
+    font-weight: normal;
+    src: local('Open Sans Italic'),url('file:///Users/xianguang/Library/Application%20Support/abnerworks.Typora/themes/github/400i.woff') format('woff')
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    src: local('Open Sans Bold'),url('file:///Users/xianguang/Library/Application%20Support/abnerworks.Typora/themes/github/700.woff') format('woff')
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: italic;
+    font-weight: bold;
+    src: local('Open Sans Bold Italic'),url('file:///Users/xianguang/Library/Application%20Support/abnerworks.Typora/themes/github/700i.woff') format('woff')
+}
 
 html {
     font-size: 16px;
@@ -195,6 +221,7 @@ h3:hover a.anchor,
 h4:hover a.anchor,
 h5:hover a.anchor,
 h6:hover a.anchor {
+    /*background: url("file:///Users/xianguang/Library/Application%20Support/images/modules/styleguide/para.png") no-repeat 10px center;*/
     text-decoration: none;
 }
 h1 tt,
@@ -515,6 +542,6 @@ header, .context-menu, .megamenu-content, footer{
 </style>
 </head>
 <body class='typora-export' >
-<div  id='write'  class = 'is-mac'><p>1.xxx</p><p>2.xxx</p><p>3.xxx</p><p>4.xxx</p></div>
+<div  id='write'  class = 'is-mac'><p><a href='life/index.md'>1.xxx</a></p><p><a href='other/index.md'>2.xxx</a></p><p>3.xxx</p><p>4.xxx</p></div>
 </body>
 </html>
