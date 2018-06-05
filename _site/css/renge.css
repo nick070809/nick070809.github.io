@@ -1,0 +1,26 @@
+.rengecenter {
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+.vcenter {
+  display: inline-block;
+  vertical-align: middle;
+  float: none;
+}
+.v-center {
+    width:1024px;
+}
+.miaopasi {
+  margin-left: 32px;
+  margin-top: 10px;
+}
+
+body{
+  background-color: #7a9280;
+}
+
+.navbar-default {
+  background-color: #739882;
+}

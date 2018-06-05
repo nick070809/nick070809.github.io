@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nick</title>
+    <description>think in life.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 05 Jun 2018 21:25:49 +0800</pubDate>
+    <lastBuildDate>Tue, 05 Jun 2018 21:25:49 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.2</generator>
+    
+      <item>
+        <title>如何</title>
+        <description>&lt;p&gt;1
+2
+3
+4&lt;/p&gt;
+
+&lt;p&gt;5&lt;/p&gt;
+
+&lt;p&gt;6
+中文&lt;/p&gt;
+
+&lt;p&gt;4&lt;/p&gt;
+
+&lt;p&gt;中文&lt;/p&gt;
+
+&lt;p&gt;6&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 05 Jun 2018 14:10:51 +0800</pubDate>
+        <link>http://localhost:4000/life/design/2018/06/05/how-to-work.html</link>
+        <guid isPermaLink="true">http://localhost:4000/life/design/2018/06/05/how-to-work.html</guid>
+        
+        <category>Life</category>
+        
+        
+        <category>Life</category>
+        
+        <category>Design</category>
+        
+      </item>
+    
+      <item>
+        <title>java基础</title>
+        <description>&lt;p&gt;1
+2
+3
+4&lt;/p&gt;
+
+&lt;p&gt;5&lt;/p&gt;
+
+&lt;p&gt;6
+中文&lt;/p&gt;
+
+&lt;p&gt;4&lt;/p&gt;
+
+&lt;p&gt;6&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 04 Jun 2018 14:10:51 +0800</pubDate>
+        <link>http://localhost:4000/life/design/2018/06/04/java-base.html</link>
+        <guid isPermaLink="true">http://localhost:4000/life/design/2018/06/04/java-base.html</guid>
+        
+        <category>Java</category>
+        
+        
+        <category>Life</category>
+        
+        <category>Design</category>
+        
+      </item>
+    
+      <item>
+        <title>java线程</title>
+        <description>&lt;p&gt;1
+2
+3
+4&lt;/p&gt;
+
+&lt;p&gt;5&lt;/p&gt;
+
+&lt;p&gt;6&lt;/p&gt;
+
+&lt;p&gt;4&lt;/p&gt;
+
+&lt;p&gt;6&lt;/p&gt;
+
+&lt;p&gt;中文&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 03 Jun 2018 14:10:51 +0800</pubDate>
+        <link>http://localhost:4000/life/design/2018/06/03/thread.html</link>
+        <guid isPermaLink="true">http://localhost:4000/life/design/2018/06/03/thread.html</guid>
+        
+        <category>Java</category>
+        
+        
+        <category>Life</category>
+        
+        <category>Design</category>
+        
+      </item>
+    
+      <item>
+        <title>分布式计算</title>
+        <description>&lt;p&gt;1
+2
+3
+4&lt;/p&gt;
+
+&lt;p&gt;5&lt;/p&gt;
+
+&lt;p&gt;6
+中文&lt;/p&gt;
+
+&lt;p&gt;4&lt;/p&gt;
+
+&lt;p&gt;中文&lt;/p&gt;
+
+&lt;p&gt;6&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 02 Jun 2018 14:10:51 +0800</pubDate>
+        <link>http://localhost:4000/life/design/%E5%88%86%E5%B8%83%E5%BC%8F/2018/06/02/%E5%88%86%E5%B8%83%E5%BC%8F.html</link>
+        <guid isPermaLink="true">http://localhost:4000/life/design/%E5%88%86%E5%B8%83%E5%BC%8F/2018/06/02/%E5%88%86%E5%B8%83%E5%BC%8F.html</guid>
+        
+        <category>分布式</category>
+        
+        
+        <category>Life</category>
+        
+        <category>Design</category>
+        
+        <category>分布式</category>
+        
+      </item>
+    
+  </channel>
+</rss>
