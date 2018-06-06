@@ -1,9 +1,9 @@
 # Site settings
-title: Nick
+title: 一壶天际
 email: nick070809@163.com
 description: think in life.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.junchaowang.com" # the base hostname & protocol for your site
+url: "https://nick070809.github.io/"
 twitter_username:
 github_username:  nick8sky
 
