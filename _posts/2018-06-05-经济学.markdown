@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "股票指数趋势"
+date:   2018-06-05 14:10:51 +0800
+categories: Life 
+tags: Design
+---
+一、道琼斯指数
+
+​	![Quote](/images/Quote.png)
+
+​	http://quote.eastmoney.com/gb/zsINDU.html
+
+
+
+二、沪深指数
+
+​	1、上证指数
+
+![shangzheng](/images/shangzheng.png)
+
+​	2、沪深300
+
+​	![husheng300](/images/husheng300.png)
+
+​	http://quote.eastmoney.com/chart/h5.html?id=0003001&type=k
+
+三、英国富时100
+
+​	![enfs](/images/enfs.png)
+
+四、德国30
+
+​	![gemx30](/images/gemx30.png)
+
+五、日本225
+
+​	![jp](/images/jp.png)
